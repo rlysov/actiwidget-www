@@ -1,0 +1,27 @@
+{
+	"title": "Crypto currency",
+	"pages": [
+		{
+			"title": "Overview",
+			"widgets": [
+				{
+					"type": "Card",
+					"title": "Bitcoin Price",
+					"dataUrl": "https://blockchain.info/en/ticker",
+					"transform": [
+						"var d = JSON.parse(str);",
+						"return {value: d.USD.last.formatMoney()};"
+					]
+				},
+				{
+					"type": "Card",
+					"title": "BTC Trans count",
+					"dataUrl": "https://api.blockchain.info/stats",
+					"transform": [
+						"var d = JSON.parse(str);",
+						"return {value: d.n_tx.formatMoney(0, '')};"
+					]
+				}
+			]
+		}]
+}
