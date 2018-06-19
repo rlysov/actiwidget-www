@@ -7,6 +7,6 @@ taxonomy:
 
 ### Chapter 1
 
-# Basics
+# Basics 2
 
 Discover the **basic** principals
