@@ -1,5 +1,5 @@
 ---
-title: Topic 2
+title: Line Chart
 taxonomy:
     category: docs
 ---

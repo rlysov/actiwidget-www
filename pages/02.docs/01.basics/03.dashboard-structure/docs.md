@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Dashboard structure
 taxonomy:
     category: docs
 ---

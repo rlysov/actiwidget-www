@@ -1,5 +1,5 @@
 ---
-title: Topic 3
+title: Bar Chart
 taxonomy:
     category: docs
 ---

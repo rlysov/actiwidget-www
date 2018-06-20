@@ -1,5 +1,5 @@
 ---
-title: Requirements
+title: Quick start
 taxonomy:
     category: docs
 ---

@@ -1,5 +1,5 @@
 ---
-title: Advanced
+title: Plugins
 taxonomy:
     category:
         - docs
@@ -7,6 +7,6 @@ taxonomy:
 
 ### Chapter 3
 
-# Advanced
+# Plugins
 
 Get into the **nitty gritty** with these advanced topics

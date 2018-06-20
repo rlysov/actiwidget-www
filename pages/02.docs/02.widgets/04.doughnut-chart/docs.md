@@ -1,5 +1,5 @@
 ---
-title: Topic 4
+title: Doughnut Chart
 taxonomy:
     category: docs
 ---
