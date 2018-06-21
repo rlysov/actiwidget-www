@@ -35,7 +35,7 @@ Every dashboard in **ACTIWIDGET** describes in JSON-format and has three basic s
 ### Dashboard top level properties
 
 | Property | Type | Description |
-| ------ | ----------- |
+| ------ | ------- | ---- |
 | title   | string | Dashboard title. Displaying on top of screen  |
 | bgcolor | string (_optional_) | Set dashboard background color. Default: null. Ex: #AAAAAA, rgb(10,20,30) |
 | darktheme  | bool (_optional_)| If true display dashboard in dark theme. Default: false |
