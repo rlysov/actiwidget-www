@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: 'Get started'
 taxonomy:
     category:
         - docs
@@ -7,6 +7,6 @@ taxonomy:
 
 ### Chapter 1
 
-# Basics
+# Get started
 
 Discover the **basic** principals
